@@ -1,0 +1,6 @@
+prop:
+     msg: HEEEEEEEEEEEYYYYY HELOOOOOO
+app:
+     name: My Application
+
+spring.profiles.active: test
